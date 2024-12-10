@@ -46,6 +46,7 @@ Nesta prova prática, você deverá realizar uma série de tarefas envolvendo os
 6. **Adicionar um Novo Item**:
    - Após fazer login, acesse a página principal do cliente React.
    - Adicione o seu nome como um novo item.
+   - E mude o texto do título para "Prova de Desenvolvimento Web - Seu Nome".
 
 7. **Finalizar e Subir as Alterações**:
    - Faça um commit das alterações realizadas no projeto:
