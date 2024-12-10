@@ -57,6 +57,7 @@ Nesta prova prática, você deverá realizar uma série de tarefas envolvendo os
      ```bash
      git push origin main
      ```
+   - Observe que são dois projetos que vc tem de enviar o link, um da API e outro do React (que consome a API)
 
 8. **Entrega da Prova**:
    - Envie o link dos seus repositórios (API e Cliente React) com as alterações realizadas no AVA (Prova 2).
