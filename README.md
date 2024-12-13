@@ -43,6 +43,7 @@ Caso haja suspeita de descumprimento das regras, o professor tem plena autonomia
 
 4. **Conectar os Projetos**:
    - Verifiquei com o inspecionar do browser se teve algum erro.
+   - Descrubra onde a API está rodando (IP e Porta), sabendo disso ajuste o react para se conectar a API.
 
 5. **Realizar Cadastro e Login**:
    - Acesse o cliente React.
@@ -71,11 +72,11 @@ Caso haja suspeita de descumprimento das regras, o professor tem plena autonomia
    - Envie o link dos seus repositórios (API e Cliente React) com as alterações realizadas no AVA (Prova 2).
   
    - IMPORTANTE: Qualquer aluno que perguntar se algo da prova está "certo" ou pedir para o professor conferir se está correto, não receberá resposta. Além disso, será aplicada uma segunda prova como penalidade. Não haverá tempo adicional para a realização dessa segunda prova, que consistem am achar os bugs na api (backup). Além disso, terá de explicar quais foram os ajustes realizados no code para fazer funcionar
+  
+10. **Avaliação**:
+    - Será avalidado se o aluno conseguiu realizar as atepas acima citado;
+    - As estratégias que o aluno utilizou para realizar as etapas;
+    - E o tempo que aluno levou para realizar, de maneira proporcional;
 ---
-
-## Observações
-
-- Certifique-se de que todos os passos estão funcionando corretamente.
-- Submissões incompletas não serão aceitas.
 
 **Boa sorte!**
