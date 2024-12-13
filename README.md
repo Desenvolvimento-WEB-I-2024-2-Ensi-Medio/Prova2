@@ -1,6 +1,12 @@
 # Prova Prática - Desenvolvimento Web
 
+RECOMENDO LER TUDO
+
 Nesta prova prática, você deverá realizar uma série de tarefas envolvendo os projetos fornecidos (API e Cliente React) para demonstrar seus conhecimentos em desenvolvimento web.
+
+Você poderá consultar qualquer material de apoio à sua disposição: apostilas, slides, pdfs, ChatGPT, Gemini, Copilot, Jesus, caderno, Internet, Intranet, entre outros. **É proibido conversar com outros alunos ou compartilhar códigos de qualquer forma**.
+
+Caso haja suspeita de descumprimento das regras, o professor tem plena autonomia para avaliar e aplicar as devidas sanções. Se o aluno sentir-se prejudicado, poderá acionar a coordenação do curso ou, em última instância, desafiar o professor para uma "trocação franca de porrada livre" fora do ambiente acadêmico, com meia hora de duração. Quem desistir primeiro é considerado "errado". O professor se reserva o direito de negar o desafio caso o aluno apresente uma diferença significativa de tamanho ou peso.
 
 ## Tarefas
 
@@ -49,6 +55,7 @@ Nesta prova prática, você deverá realizar uma série de tarefas envolvendo os
    - E mude o texto do título para "Prova de Desenvolvimento Web - Seu Nome".
 
 7. **Finalizar e Subir as Alterações**:
+   - Não existem regras de como subir para github, use a forma que achar mais confortável. Mas caso queira via terminal segue como fazer:
    - Faça um commit das alterações realizadas no projeto:
      ```bash
      git add .
@@ -60,7 +67,7 @@ Nesta prova prática, você deverá realizar uma série de tarefas envolvendo os
      ```
    - Observe que são dois projetos que vc tem de enviar o link, um da API e outro do React (que consome a API)
 
-8. **Entrega da Prova**:
+9. **Entrega da Prova**:
    - Envie o link dos seus repositórios (API e Cliente React) com as alterações realizadas no AVA (Prova 2).
   
    - IMPORTANTE: Qualquer aluno que perguntar se algo da prova está "certo" ou pedir para o professor conferir se está correto, não receberá resposta. Além disso, será aplicada uma segunda prova como penalidade. Não haverá tempo adicional para a realização dessa segunda prova.
