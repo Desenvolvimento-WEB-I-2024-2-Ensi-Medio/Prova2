@@ -70,7 +70,7 @@ Caso haja suspeita de descumprimento das regras, o professor tem plena autonomia
 9. **Entrega da Prova**:
    - Envie o link dos seus repositórios (API e Cliente React) com as alterações realizadas no AVA (Prova 2).
   
-   - IMPORTANTE: Qualquer aluno que perguntar se algo da prova está "certo" ou pedir para o professor conferir se está correto, não receberá resposta. Além disso, será aplicada uma segunda prova como penalidade. Não haverá tempo adicional para a realização dessa segunda prova.
+   - IMPORTANTE: Qualquer aluno que perguntar se algo da prova está "certo" ou pedir para o professor conferir se está correto, não receberá resposta. Além disso, será aplicada uma segunda prova como penalidade. Não haverá tempo adicional para a realização dessa segunda prova, que consistem am achar os bugs na api (backup). Além disso, terá de explicar quais foram os ajustes realizados no code para fazer funcionar
 ---
 
 ## Observações
