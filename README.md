@@ -62,7 +62,8 @@ Nesta prova prática, você deverá realizar uma série de tarefas envolvendo os
 
 8. **Entrega da Prova**:
    - Envie o link dos seus repositórios (API e Cliente React) com as alterações realizadas no AVA (Prova 2).
-
+  
+   - IMPORTANTE: Qualquer aluno que perguntar se algo da prova está "certo" ou pedir para o professor conferir se está correto, não receberá resposta. Além disso, será aplicada uma segunda prova como penalidade. Não haverá tempo adicional para a realização dessa segunda prova.
 ---
 
 ## Observações
