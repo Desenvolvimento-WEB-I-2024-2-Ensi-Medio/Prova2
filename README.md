@@ -6,14 +6,14 @@ Nesta prova prática, você deverá realizar uma série de tarefas envolvendo os
 
 1. **Fork dos Projetos**:
    - Faça um fork dos repositórios fornecidos:
-     - [API de Gerenciamento de Itens](https://github.com/Desen-Dispositivos-Moveis-2024-2/gerenciamento-itens-api)
-     - [Cliente React para Gerenciamento de Itens](https://github.com/Desen-Dispositivos-Moveis-2024-2/react-gerenciamento-itens)
+     - [API de Gerenciamento de Itens](https://github.com/Desenvolvimento-WEB-I-2024-2-Ensi-Medio/gerenciamento-itens-api)
+     - [Cliente React para Gerenciamento de Itens](https://github.com/Desenvolvimento-WEB-I-2024-2-Ensi-Medio/react-gerenciamento-itens)
 
 2. **Clonagem e Configuração**:
    - Clone os repositórios para a sua máquina:
      ```bash
-     git clone https://github.com/Desen-Dispositivos-Moveis-2024-2/gerenciamento-itens-api
-     git clone https://github.com/Desen-Dispositivos-Moveis-2024-2/react-gerenciamento-itens
+     git clone https://github.com/Desenvolvimento-WEB-I-2024-2-Ensi-Medio/gerenciamento-itens-api.git
+     git clone https://github.com/Desenvolvimento-WEB-I-2024-2-Ensi-Medio/react-gerenciamento-itens.git
      ```
    - Instale as dependências em ambos os projetos:
      ```bash
